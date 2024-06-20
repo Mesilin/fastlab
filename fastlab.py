@@ -11,7 +11,7 @@ def sum_two_args(x, y):
 # Hello World route
 @app.get("/")
 def read_root():
-    return {"Hello": "World"}
+    return {"Hello world! I am auto deployed on Render.com!"}
 
 # if __name__ == "__main__":
 #    uvicorn.run(app, host="0.0.0.0", port=8000)
