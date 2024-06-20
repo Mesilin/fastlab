@@ -3,6 +3,7 @@ fastapi = "*"
 pydantic = "*"
 uvicorn = "*"
 pytest = "*"
+selenium = "*"
 
 [dev-packages]
 
