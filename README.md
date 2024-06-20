@@ -5,3 +5,5 @@
 Репозитории:
 * GitFlic: https://gitflic.ru/project/mesilin/fastlab.git
 * GitHub: https://github.com/Mesilin/fastlab.git
+
+Автодеплой на: https://fastlab-lf1v.onrender.com

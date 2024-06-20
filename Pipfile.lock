@@ -300,7 +300,7 @@
                 "sha256:feff59f27338135776f6d4e2ec7aeeac5d5f7a08a83e80869121ef8164b74af9"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "version": "==1.23.0"
         },
         "orjson": {
             "hashes": [
