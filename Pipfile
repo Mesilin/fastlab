@@ -5,6 +5,8 @@ uvicorn = "*"
 pytest = "*"
 selenium = "*"
 jinja2 = "*"
+numpy = "*"
+Pillow = "*"
 
 [dev-packages]
 
