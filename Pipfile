@@ -4,6 +4,7 @@ pydantic = "*"
 uvicorn = "*"
 pytest = "*"
 selenium = "*"
+jinja2 = "*"
 
 [dev-packages]
 
